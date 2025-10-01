@@ -16,8 +16,8 @@ Modern CD-SEM workflows depend on stable image quality. This toolkit provides:
 - **Comprehensive Analysis**: Both full-reference and no-reference metrics with explainable visualizations
 
 
-```
-This README provides:
+
+## This README provides:
 
 1. **Clear overview** of the project's purpose and capabilities
 2. **Easy installation** instructions
@@ -29,7 +29,7 @@ This README provides:
 8. **Modular organization** that's easy to navigate
 
 The README emphasizes the practical industrial applications while maintaining academic credibility through proper citations and methodological explanations.
-```
+
 ## Features
 
 ### Full-Reference Metrics
@@ -187,7 +187,7 @@ Contributions are welcome! Please feel free to submit pull requests for:
 ## Citation
 If you use this notebook or code, please cite:
 
-> Khan, I. (2025). *SEM Image Quality Assessment & Tool-to-Tool Matching (Jupyter notebook)*. Version 1.0. GitHub. https://github.com/<your-user>/<your-repo>
+> Khan, I. (2025). *SEM Image Quality Assessment & Tool-to-Tool Matching (Jupyter notebook)*. Version 1.0. GitHub. https://github.com/imranlabs/SEM_image_quality_analysis/tree/main
 
 
 
