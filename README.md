@@ -2,10 +2,16 @@
 # SEM Image Quality Assessment & Tool-to-Tool Matching
 
 A comprehensive Python toolkit for assessing Scanning Electron Microscope (SEM) image quality and ensuring consistency between different SEM tools. Designed for semiconductor manufacturing and metrology workflows where stable image quality is critical for accurate measurements.
+<!-- Open in Colab for your main notebook -->
+  <a href="https://colab.research.google.com/github/imranlabs/SEM_image_quality_analysis/blob/main/SEM_IQA.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
+  </a>
+</p>
 
 ![SEM IQA](https://img.shields.io/badge/SEM-Image%20Quality%20Assessment-blue)
 ![Python](https://img.shields.io/badge/Python-3.7%2B-green)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-orange)
+
 
 ## Overview
 
