@@ -196,7 +196,7 @@ If you use this notebook or code, please cite:
 - Normalized Variance Focus Score adapted from [Yu Sun et al.](https://doi.org/10.1002/jemt.20118)
 - Public domain SEM images from various sources
 - OpenCV and scikit-image communities
-- Public datasets and the TID2013 paper inspired the non-proprietary distortions used here.
+- The non-proprietary distortions used and inspired from the [TID2013 paper.](https://doi.org/10.1016/j.image.2014.10.009)
 
 ## 📞 Support
 
